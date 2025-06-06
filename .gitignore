@@ -1,0 +1,31 @@
+# Ambientes virtuais
+venv/
+.env
+*.env
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.log
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Cache do pip
+pip-wheel-metadata/
+*.egg-info/
+
+# Arquivos de áudio temporários (caso salve localmente)
+*.wav
+*.mp3
+
+# Logs e pastas temporárias
+logs/
+temp/
